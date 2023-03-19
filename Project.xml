@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Hilo Engine" file= "FNF Hilo Engine" packageName="com.hironothilo.hiloengine" package="com.hironothilo.hiloengine" main="Main" version="0.1.1a" company="Hiro not Hilo" />
+	<app title="Friday Night Funkin': Hilo Engine" file= "FNF Hilo Engine" packageName="com.hironothilo.hiloengine" package="com.hironothilo.hiloengine" main="Main" version="0.2.7" company="Hiro not Hilo" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
