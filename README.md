@@ -1,10 +1,13 @@
 # THIS ENGINE IS DISCONTINUED & VERY OLD (THIS IS FOR EDUCATIONAL PURPOSE ONLY!!!)
-YAA
+But You still can use it If you want hehe
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 # Bug Fixed & Added Feature of This Discontinued Engine
+* Update Freeplay to PE 0.6.2+
+* Fixed Discord RPC
 * Low priority Hurt Note
 * Notemiss is based of ms instead of screen height
 * Better Input (PE 0.6)
+* Crash Handler
 * When Middlescroll Opponent Alpha is low
 * Show ComboSpr
 # Friday Night Funkin' Hilo Engine :)
