@@ -4270,7 +4270,7 @@ class PlayState extends MusicBeatState
 			songMisses++;
 			totalPlayed++;
 			vocals.volume = 0;
-			health -= (daNote.nextNote.countMiss || !daNote.isSustainNote ? daNote.missHealth : 0) * healthLoss; // More Accurate lol
+			health -= (daNote.nextNote != null || daNote.nextNote.countMiss ? daNote.missHealth : 0) * healthLoss; // More Accurate lol
 			RecalculateRating();
 
 			var char:Character = boyfriend;

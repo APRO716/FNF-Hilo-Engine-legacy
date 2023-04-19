@@ -11,7 +11,7 @@ But You still can use it If you want hehe
 * When Middlescroll Opponent Alpha is low
 * Show ComboSpr
 # Known Issues
-* The Engine is NOT Optimize If you have low end device It will probable lag (Test on 4gb ram , Intel Core i3-3220 really old bruh , SSD Sata 256gb old PC)
+* The Engine is NOT Optimize If you have low end device It will probably lag (Test on 4gb ram , Intel Core i3-3220 really old bruh , SSD Sata 256gb old PC)
 * Some Tween maybe Weird
 * NOT Support HScript
 # Friday Night Funkin' Hilo Engine :)
